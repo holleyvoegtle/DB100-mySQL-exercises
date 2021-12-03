@@ -1,4 +1,4 @@
-# mySQL-exercises
+# MySQL-exercises
 
 ## 
 The purpose of this project was to become familiar with mySQL and making queries using a pre-populated database from the mySQL website. The application, MySQL workbench was used to make the queries even though the files for the project were in VSCode. This was for testing the scripts and facilitaing the passing of such tests.
